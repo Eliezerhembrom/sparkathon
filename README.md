@@ -1,6 +1,8 @@
 # Inventory Management System Admin Dashboard (Created for Hackathon)
 
-Welcome to the Inventory Management System Admin Dashboard, a project created as part of a hackathon challenge! This web application provides an intuitive and efficient way to manage inventory for your business. Keep track of products, stock levels, and sales data effortlessly.
+Welcome to the Inventory Management System Admin Dashboard, a project created as part of a hackathon challenge! -
+This web application provides an intuitive and efficient way to manage inventory for your business. -
+Keep track of products, stock levels, and sales data effortlessly.
 
 ## Features
 - __User Authentication__: Secure user authentication system to protect sensitive data.
