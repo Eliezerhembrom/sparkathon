@@ -14,5 +14,5 @@ __Responsive Design__: Access the dashboard on desktop, tablet, or mobile device
 ## Technologies Used
 __Frontend__:
 - HTML, CSS, JavaScript
-- React
+- React Js
 - SASS, Material UI
