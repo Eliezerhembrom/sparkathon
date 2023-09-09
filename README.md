@@ -15,4 +15,4 @@ __Responsive Design__: Access the dashboard on desktop, tablet, or mobile device
 __Frontend__:
 - HTML, CSS, JavaScript
 - React
-- SASS Material UI
+- SASS, Material UI
